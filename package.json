@@ -1,0 +1,17 @@
+{
+  "name": "project_automation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Browser_automation.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "minimist": "^1.2.8",
+    "puppeteer": "^20.7.4",
+    "puppeteer-core": "^20.7.4"
+  }
+}
